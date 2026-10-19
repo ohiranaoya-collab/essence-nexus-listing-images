@@ -1,7 +1,7 @@
 {
  "schema": "lusenne-lp-item-config/v1",
- "generatedAt": "2026-10-19T15:19:28.233Z",
- "revision": "2fdb523dbb37279fe39b167767069a9fba36d555f41f6202b5cbe75f1d6d6352",
+ "generatedAt": "2026-10-19T23:19:13.481Z",
+ "revision": "a706033c3aeda28a5e0cd86b08e8db1a30043a6d83f0a1adf01ee655da633e19",
  "note": "商品ページの表示に必要な項目だけを収めた公開用の設定。生成元は完成ZIP由来の記録（slot-map.json / prepare-record.json）。",
  "items": {
   "160466230": {
@@ -342,6 +342,48 @@
    "sharedBodyImages": [
     13,
     14
+   ]
+  },
+  "163168549": {
+   "colors": [
+    {
+     "name": "ブルー",
+     "sku": "LFS-272BL",
+     "images": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ],
+     "bodyImages": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "name": "グリーン",
+     "sku": "LFS-272GR",
+     "images": [
+      6,
+      7,
+      8,
+      9,
+      10
+     ],
+     "bodyImages": [
+      4,
+      5,
+      6
+     ]
+    }
+   ],
+   "sharedImages": [
+    11
+   ],
+   "sharedBodyImages": [
+    7
    ]
   }
  }
