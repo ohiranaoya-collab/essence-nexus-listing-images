@@ -1,7 +1,7 @@
 {
  "schema": "lusenne-lp-item-config/v1",
- "generatedAt": "2026-10-19T06:26:19.970Z",
- "revision": "9205762756b05d4a58fd26565055bd050e4541d65b6df36ba703ffe494d10abd",
+ "generatedAt": "2026-10-19T15:19:28.233Z",
+ "revision": "2fdb523dbb37279fe39b167767069a9fba36d555f41f6202b5cbe75f1d6d6352",
  "note": "商品ページの表示に必要な項目だけを収めた公開用の設定。生成元は完成ZIP由来の記録（slot-map.json / prepare-record.json）。",
  "items": {
   "160466230": {
@@ -269,6 +269,79 @@
    ],
    "sharedImages": [
     11
+   ]
+  },
+  "163167389": {
+   "colors": [
+    {
+     "name": "ブラック",
+     "sku": "HIT-203BK",
+     "images": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ],
+     "bodyImages": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "name": "ベージュ",
+     "sku": "HIT-203BE",
+     "images": [
+      6,
+      7,
+      8,
+      9,
+      10
+     ],
+     "bodyImages": [
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "name": "ブラウン",
+     "sku": "HIT-203BR",
+     "images": [
+      11,
+      12,
+      13,
+      14,
+      15
+     ],
+     "bodyImages": [
+      7,
+      8,
+      9
+     ]
+    },
+    {
+     "name": "グレー",
+     "sku": "HIT-203GY",
+     "images": [
+      16,
+      17,
+      18,
+      19,
+      20
+     ],
+     "bodyImages": [
+      10,
+      11,
+      12
+     ]
+    }
+   ],
+   "sharedImages": [],
+   "sharedBodyImages": [
+    13,
+    14
    ]
   }
  }
