@@ -1,0 +1,275 @@
+{
+ "schema": "lusenne-lp-item-config/v1",
+ "generatedAt": "2026-10-19T06:26:19.970Z",
+ "revision": "9205762756b05d4a58fd26565055bd050e4541d65b6df36ba703ffe494d10abd",
+ "note": "商品ページの表示に必要な項目だけを収めた公開用の設定。生成元は完成ZIP由来の記録（slot-map.json / prepare-record.json）。",
+ "items": {
+  "160466230": {
+   "colors": [
+    {
+     "name": "ブラウン",
+     "sku": "TIM-34BR",
+     "images": [
+      1,
+      2
+     ]
+    },
+    {
+     "name": "ナチュラル",
+     "sku": "TIM-34NA",
+     "images": [
+      7,
+      8
+     ]
+    }
+   ],
+   "sharedImages": [
+    3,
+    4,
+    5,
+    6
+   ]
+  },
+  "162015549": {
+   "colors": [
+    {
+     "name": "ミックス",
+     "sku": "PT-336MIX",
+     "images": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "name": "ナチュラル",
+     "sku": "PT-336NA",
+     "images": [
+      6,
+      7,
+      8,
+      9,
+      10
+     ]
+    }
+   ],
+   "sharedImages": [
+    11
+   ]
+  },
+  "162031783": {
+   "colors": [
+    {
+     "name": "ホワイト",
+     "sku": "TPN-50WH",
+     "images": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "name": "コーラルピンク",
+     "sku": "TPN-50CPK",
+     "images": [
+      6,
+      7,
+      8,
+      9,
+      10
+     ]
+    }
+   ],
+   "sharedImages": [
+    11
+   ]
+  },
+  "162032597": {
+   "colors": [
+    {
+     "name": "ライトベージュ",
+     "sku": "IVY-300LBE",
+     "images": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "name": "グレー",
+     "sku": "IVY-300CGY",
+     "images": [
+      6,
+      7,
+      8,
+      9,
+      10
+     ]
+    }
+   ],
+   "sharedImages": [
+    11
+   ]
+  },
+  "162054972": {
+   "colors": [
+    {
+     "name": "ブラック",
+     "sku": "FKC-005BK",
+     "images": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "name": "ブラウン",
+     "sku": "FKC-005BR",
+     "images": [
+      6,
+      7,
+      8,
+      9,
+      10
+     ]
+    },
+    {
+     "name": "グレー",
+     "sku": "FKC-005GY",
+     "images": [
+      11,
+      12,
+      13,
+      14,
+      15
+     ]
+    }
+   ],
+   "sharedImages": [
+    16
+   ]
+  },
+  "162204549": {
+   "colors": [
+    {
+     "name": "ベージュ",
+     "sku": "RKC-188BE",
+     "images": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "name": "ライトピンク",
+     "sku": "RKC-188LPK",
+     "images": [
+      6,
+      7,
+      8,
+      9,
+      10
+     ]
+    }
+   ],
+   "sharedImages": [
+    11
+   ]
+  },
+  "162206008": {
+   "colors": [
+    {
+     "name": "ナチュラル",
+     "sku": "PT-337NA",
+     "images": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "name": "ミックス",
+     "sku": "PT-337MIX",
+     "images": [
+      6,
+      7,
+      8,
+      9,
+      10
+     ]
+    }
+   ],
+   "sharedImages": [
+    11
+   ]
+  },
+  "162207786": {
+   "colors": [
+    {
+     "name": "正面から見て左肘",
+     "sku": "SS-118GYC",
+     "images": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "name": "正面から見て右肘",
+     "sku": "SS-118GYD",
+     "images": [
+      4,
+      5,
+      6
+     ]
+    }
+   ],
+   "sharedImages": [
+    7,
+    8,
+    9
+   ]
+  },
+  "162224406": {
+   "colors": [
+    {
+     "name": "ナチュラル",
+     "sku": "GT-885",
+     "images": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "name": "ブラウン",
+     "sku": "GT-887",
+     "images": [
+      6,
+      7,
+      8,
+      9,
+      10
+     ]
+    }
+   ],
+   "sharedImages": [
+    11
+   ]
+  }
+ }
+}
