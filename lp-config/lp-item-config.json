@@ -1,7 +1,7 @@
 {
  "schema": "lusenne-lp-item-config/v1",
- "generatedAt": "2026-10-19T23:26:49.527Z",
- "revision": "cc83630dfe6b6c16629294665ee3dcd0a23ce01ab72ab191d6c511110ee550ca",
+ "generatedAt": "2026-10-22T06:58:09.493Z",
+ "revision": "8a9ffcdb7e9c885cda9fe60f4b536864b9563676cbcc09788828e672a7d9719d",
  "note": "商品ページの表示に必要な項目だけを収めた公開用の設定。生成元は完成ZIP由来の記録（slot-map.json / prepare-record.json）。",
  "items": {
   "160466230": {
@@ -365,6 +365,48 @@
     {
      "name": "グリーン",
      "sku": "LFS-272GR",
+     "images": [
+      6,
+      7,
+      8,
+      9,
+      10
+     ],
+     "bodyImages": [
+      4,
+      5,
+      6
+     ]
+    }
+   ],
+   "sharedImages": [
+    11
+   ],
+   "sharedBodyImages": [
+    7
+   ]
+  },
+  "163181632": {
+   "colors": [
+    {
+     "name": "ホワイト",
+     "sku": "MIP-18WH",
+     "images": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ],
+     "bodyImages": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "name": "ダークグレー",
+     "sku": "MIP-18DGY",
      "images": [
       6,
       7,
