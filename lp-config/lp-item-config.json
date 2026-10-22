@@ -1,7 +1,7 @@
 {
  "schema": "lusenne-lp-item-config/v1",
- "generatedAt": "2026-10-22T06:58:09.493Z",
- "revision": "8a9ffcdb7e9c885cda9fe60f4b536864b9563676cbcc09788828e672a7d9719d",
+ "generatedAt": "2026-10-22T07:14:49.603Z",
+ "revision": "fa145a3a0a5609b3820306fee4f34a61985bae6de8d6ea0a5ab285d1a189ea04",
  "note": "商品ページの表示に必要な項目だけを収めた公開用の設定。生成元は完成ZIP由来の記録（slot-map.json / prepare-record.json）。",
  "items": {
   "160466230": {
@@ -407,6 +407,48 @@
     {
      "name": "ダークグレー",
      "sku": "MIP-18DGY",
+     "images": [
+      6,
+      7,
+      8,
+      9,
+      10
+     ],
+     "bodyImages": [
+      4,
+      5,
+      6
+     ]
+    }
+   ],
+   "sharedImages": [
+    11
+   ],
+   "sharedBodyImages": [
+    7
+   ]
+  },
+  "163207066": {
+   "colors": [
+    {
+     "name": "ダークグレー",
+     "sku": "MIP-19DGY",
+     "images": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ],
+     "bodyImages": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "name": "ホワイト",
+     "sku": "MIP-19WH",
      "images": [
       6,
       7,
