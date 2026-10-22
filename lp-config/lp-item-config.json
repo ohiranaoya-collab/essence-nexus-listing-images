@@ -1,7 +1,7 @@
 {
  "schema": "lusenne-lp-item-config/v1",
- "generatedAt": "2026-10-22T07:14:49.603Z",
- "revision": "fa145a3a0a5609b3820306fee4f34a61985bae6de8d6ea0a5ab285d1a189ea04",
+ "generatedAt": "2026-10-22T07:16:27.013Z",
+ "revision": "002a3d918495adb5f9cc0bc73b65efbe146578776f0bc044bcba8c83420f0779",
  "note": "商品ページの表示に必要な項目だけを収めた公開用の設定。生成元は完成ZIP由来の記録（slot-map.json / prepare-record.json）。",
  "items": {
   "160466230": {
@@ -426,6 +426,12 @@
    ],
    "sharedBodyImages": [
     7
+   ],
+   "sizeLinks": [
+    {
+     "label": "折りたたみ収納ワゴン",
+     "itemId": "163207066"
+    }
    ]
   },
   "163207066": {
@@ -468,6 +474,12 @@
    ],
    "sharedBodyImages": [
     7
+   ],
+   "sizeLinks": [
+    {
+     "label": "天板・トレー付きサイドテーブル",
+     "itemId": "163181632"
+    }
    ]
   },
   "163208524": {
