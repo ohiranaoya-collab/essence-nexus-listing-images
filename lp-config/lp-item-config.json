@@ -1,7 +1,7 @@
 {
  "schema": "lusenne-lp-item-config/v1",
- "generatedAt": "2026-10-22T07:16:27.013Z",
- "revision": "002a3d918495adb5f9cc0bc73b65efbe146578776f0bc044bcba8c83420f0779",
+ "generatedAt": "2026-10-22T22:47:44.214Z",
+ "revision": "4861c2e03be2d5d7d825ae81d378efb4efa4cbf604fde948e0d447b56fb9e331",
  "note": "商品ページの表示に必要な項目だけを収めた公開用の設定。生成元は完成ZIP由来の記録（slot-map.json / prepare-record.json）。",
  "items": {
   "160466230": {
@@ -503,6 +503,48 @@
     {
      "name": "ホワイト（ホワイトフレーム）",
      "sku": "MIP-378",
+     "images": [
+      6,
+      7,
+      8,
+      9,
+      10
+     ],
+     "bodyImages": [
+      4,
+      5,
+      6
+     ]
+    }
+   ],
+   "sharedImages": [
+    11
+   ],
+   "sharedBodyImages": [
+    7
+   ]
+  },
+  "163359229": {
+   "colors": [
+    {
+     "name": "ブラック",
+     "sku": "DIS-683BK",
+     "images": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ],
+     "bodyImages": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "name": "アイボリー",
+     "sku": "DIS-683IV",
      "images": [
       6,
       7,
