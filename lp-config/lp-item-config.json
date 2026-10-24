@@ -1,7 +1,7 @@
 {
  "schema": "lusenne-lp-item-config/v1",
- "generatedAt": "2026-10-24T12:24:35.000Z",
- "revision": "e76eb76ca09232a231e4f5b79d43ce9a29ac51d6361dfceec3b9c1f61aade298",
+ "generatedAt": "2026-10-24T13:29:58.521Z",
+ "revision": "7f5b07a456c5ad8a6331f765d09fb0c5a0aee80a20e1a9bafb335b67ec939d03",
  "note": "商品ページの表示に必要な項目だけを収めた公開用の設定。生成元は完成ZIP由来の記録（slot-map.json / prepare-record.json）。",
  "items": {
   "160466230": {
@@ -729,6 +729,48 @@
     {
      "name": "ナチュラル",
      "sku": "END-330NA",
+     "images": [
+      6,
+      7,
+      8,
+      9,
+      10
+     ],
+     "bodyImages": [
+      4,
+      5,
+      6
+     ]
+    }
+   ],
+   "sharedImages": [
+    11
+   ],
+   "sharedBodyImages": [
+    7
+   ]
+  },
+  "163381303": {
+   "colors": [
+    {
+     "name": "ブラック",
+     "sku": "END-403BK",
+     "images": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ],
+     "bodyImages": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "name": "ホワイト",
+     "sku": "END-403WH",
      "images": [
       6,
       7,
