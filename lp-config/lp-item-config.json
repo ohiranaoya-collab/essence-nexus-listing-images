@@ -1,7 +1,7 @@
 {
  "schema": "lusenne-lp-item-config/v1",
- "generatedAt": "2026-10-23T12:09:02.525Z",
- "revision": "0bcded088c2769ce9152da1f71cdfcb2f8d9204b5df35044344c656a278825cc",
+ "generatedAt": "2026-10-24T07:55:10.251Z",
+ "revision": "7d749b7c0f74238d36c0f2a649725d3e4a66a6984765ab8e3ba6d4fb1aca19e3",
  "note": "商品ページの表示に必要な項目だけを収めた公開用の設定。生成元は完成ZIP由来の記録（slot-map.json / prepare-record.json）。",
  "items": {
   "160466230": {
@@ -629,6 +629,48 @@
     {
      "name": "ブラック",
      "sku": "DIS-685BK",
+     "images": [
+      6,
+      7,
+      8,
+      9,
+      10
+     ],
+     "bodyImages": [
+      4,
+      5,
+      6
+     ]
+    }
+   ],
+   "sharedImages": [
+    11
+   ],
+   "sharedBodyImages": [
+    7
+   ]
+  },
+  "163369545": {
+   "colors": [
+    {
+     "name": "ブラック",
+     "sku": "END-330BK",
+     "images": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ],
+     "bodyImages": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "name": "ナチュラル",
+     "sku": "END-330NA",
      "images": [
       6,
       7,
