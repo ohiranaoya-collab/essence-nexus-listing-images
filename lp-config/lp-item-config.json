@@ -1,7 +1,7 @@
 {
  "schema": "lusenne-lp-item-config/v1",
  "generatedAt": "2026-10-24T13:29:58.521Z",
- "revision": "7f5b07a456c5ad8a6331f765d09fb0c5a0aee80a20e1a9bafb335b67ec939d03",
+ "revision": "d6f8635b71b318d3d7f413006e7e1f2179ce274c1ea9fcf5f062041c18ab3d60",
  "note": "商品ページの表示に必要な項目だけを収めた公開用の設定。生成元は完成ZIP由来の記録（slot-map.json / prepare-record.json）。",
  "items": {
   "160466230": {
@@ -524,6 +524,16 @@
     7
    ]
   },
+  "163344504": {
+   "sizeLinks": [
+    {
+     "label": "レリーフ模様／3色",
+     "itemId": "163357958",
+     "relationType": "spec"
+    }
+   ],
+   "linksTitle": "デザインで選ぶ"
+  },
   "163356128": {
    "colors": [
     {
@@ -622,7 +632,15 @@
    ],
    "sharedBodyImages": [
     10
-   ]
+   ],
+   "sizeLinks": [
+    {
+     "label": "リブデザイン／4色",
+     "itemId": "163344504",
+     "relationType": "spec"
+    }
+   ],
+   "linksTitle": "デザインで選ぶ"
   },
   "163359229": {
    "colors": [
@@ -791,6 +809,26 @@
    "sharedBodyImages": [
     7
    ]
+  },
+  "163529897": {
+   "sizeLinks": [
+    {
+     "label": "フォレ・丸型座面",
+     "itemId": "163539218",
+     "relationType": "spec"
+    }
+   ],
+   "linksTitle": "スツールのデザインで選ぶ"
+  },
+  "163539218": {
+   "sizeLinks": [
+    {
+     "label": "ミディ・角型座面",
+     "itemId": "163529897",
+     "relationType": "spec"
+    }
+   ],
+   "linksTitle": "スツールのデザインで選ぶ"
   }
  }
 }
