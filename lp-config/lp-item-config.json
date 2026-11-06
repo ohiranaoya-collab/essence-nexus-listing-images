@@ -1,7 +1,7 @@
 {
  "schema": "lusenne-lp-item-config/v1",
- "generatedAt": "2026-11-05T12:43:33.450Z",
- "revision": "5c9b2ac37a25e5ae1c566d35369aa7c59f53b37a6cda83bf81cd79403b4dd59b",
+ "generatedAt": "2026-11-06T00:59:33.312Z",
+ "revision": "7eb1b8e8bd6e0f87ac1ebc36ee58ca5154571fe17b45924eecebbd0bba643d2c",
  "note": "商品ページの表示に必要な項目だけを収めた公開用の設定。生成元は完成ZIP由来の記録（slot-map.json / prepare-record.json）。",
  "items": {
   "160466230": {
@@ -829,6 +829,48 @@
     }
    ],
    "linksTitle": "スツールのデザインで選ぶ"
+  },
+  "163701270": {
+   "colors": [
+    {
+     "name": "ブラック",
+     "sku": "CLY-22BK",
+     "images": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ],
+     "bodyImages": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "name": "グレー",
+     "sku": "CLY-22GY",
+     "images": [
+      6,
+      7,
+      8,
+      9,
+      10
+     ],
+     "bodyImages": [
+      4,
+      5,
+      6
+     ]
+    }
+   ],
+   "sharedImages": [
+    11
+   ],
+   "sharedBodyImages": [
+    7
+   ]
   },
   "163829350": {
    "colors": [
