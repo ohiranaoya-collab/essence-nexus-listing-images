@@ -1,7 +1,7 @@
 {
  "schema": "lusenne-lp-item-config/v1",
- "generatedAt": "2026-11-07T01:31:02.397Z",
- "revision": "698fb2928b7059e5502290f3b62b9373b6f7aae70d7b0c3f6384fb42ca0047ed",
+ "generatedAt": "2026-11-07T09:30:07.894Z",
+ "revision": "c437f1c829b3a3d9fd58086bf02d3503c569cd4343f328ebc3d7b3374e6a12f0",
  "note": "商品ページの表示に必要な項目だけを収めた公開用の設定。生成元は完成ZIP由来の記録（slot-map.json / prepare-record.json）。",
  "items": {
   "160466230": {
@@ -1009,6 +1009,64 @@
     {
      "name": "アンティークゴールド",
      "sku": "AKB-439AGD",
+     "images": [
+      11,
+      12,
+      13,
+      14,
+      15
+     ],
+     "bodyImages": [
+      7,
+      8,
+      9
+     ]
+    }
+   ],
+   "sharedImages": [
+    16
+   ],
+   "sharedBodyImages": [
+    10
+   ]
+  },
+  "163899812": {
+   "colors": [
+    {
+     "name": "ブラック",
+     "sku": "MIP-71BK",
+     "images": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ],
+     "bodyImages": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "name": "ベージュ",
+     "sku": "MIP-71BE",
+     "images": [
+      6,
+      7,
+      8,
+      9,
+      10
+     ],
+     "bodyImages": [
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "name": "グリーン",
+     "sku": "MIP-71GR",
      "images": [
       11,
       12,
