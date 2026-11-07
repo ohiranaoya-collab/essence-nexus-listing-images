@@ -1,7 +1,7 @@
 {
  "schema": "lusenne-lp-item-config/v1",
- "generatedAt": "2026-11-07T00:59:53.536Z",
- "revision": "57b69c674cefcdba65268b6107b8593ce9c83608a263e4a8ff789d8767b05477",
+ "generatedAt": "2026-11-07T01:31:02.397Z",
+ "revision": "698fb2928b7059e5502290f3b62b9373b6f7aae70d7b0c3f6384fb42ca0047ed",
  "note": "商品ページの表示に必要な項目だけを収めた公開用の設定。生成元は完成ZIP由来の記録（slot-map.json / prepare-record.json）。",
  "items": {
   "160466230": {
@@ -870,6 +870,64 @@
    ],
    "sharedBodyImages": [
     7
+   ]
+  },
+  "163813388": {
+   "colors": [
+    {
+     "name": "ブラック",
+     "sku": "AKB-438BK",
+     "images": [
+      1,
+      2,
+      3,
+      4,
+      5
+     ],
+     "bodyImages": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "name": "ホワイト",
+     "sku": "AKB-438WH",
+     "images": [
+      6,
+      7,
+      8,
+      9,
+      10
+     ],
+     "bodyImages": [
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "name": "アンティークゴールド",
+     "sku": "AKB-438AGD",
+     "images": [
+      11,
+      12,
+      13,
+      14,
+      15
+     ],
+     "bodyImages": [
+      7,
+      8,
+      9
+     ]
+    }
+   ],
+   "sharedImages": [
+    16
+   ],
+   "sharedBodyImages": [
+    10
    ]
   },
   "163829350": {
